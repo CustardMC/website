@@ -2,11 +2,11 @@
 
     <div v-if="!isBrowseMenuOpen" class="select-none font-bold bg-[color:var(--brand-colour)] w-full p-2.5 rounded-3xl flex flex-row gap-12 items-center text-base justify-between sm:justify-normal pr-5">
 
-        <NuxtLink class="text-lg flex items-center flex-row gap-2" to="https://loopmc.org">
+        <NuxtLink class="text-lg flex items-center flex-row gap-2" to="https://custardmc.vercel.app/">
         
             <img class="h-10" src="~/assets/img/icon512.png">
 
-            the Loop Project
+            CustardMC
 
         </NuxtLink>
 
@@ -14,9 +14,9 @@
 
         <NuxtLink to="/projects" class="hidden sm:block"> Projects </NuxtLink>
 
-        <NuxtLink to="https://github.com/theLoopProject" class="hidden sm:block"> Github </NuxtLink>
+        <NuxtLink to="https://github.com/custardmc" class="hidden sm:block"> Github </NuxtLink>
 
-        <NuxtLink to="/discord" class="hidden sm:block"> Discord </NuxtLink>
+        <!-- <NuxtLink to="/discord" class="hidden sm:block"> Discord </NuxtLink> -->
 
         <NuxtLink to="" class="block sm:hidden" @click="toggleDropdown"> <LucideMenu /> </NuxtLink>
 
@@ -30,7 +30,7 @@
         
                 <img class="h-10" src="~/assets/img/icon512.png">
 
-                the Loop Project
+                CustardMC
 
             </NuxtLink>
 
@@ -44,7 +44,7 @@
 
             <NuxtLink to="https://github.com/theLoopProject" class="text-center sm:hidden block bg-white w-full p-4 rounded-2xl"> Github </NuxtLink>
 
-            <NuxtLink to="/discord" class="text-center sm:hidden block bg-white w-full p-4 rounded-2xl"> Discord </NuxtLink>
+          <!--  <NuxtLink to="/discord" class="text-center sm:hidden block bg-white w-full p-4 rounded-2xl"> Discord </NuxtLink> -->
         
 
     </div>

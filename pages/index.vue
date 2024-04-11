@@ -2,19 +2,19 @@
 
     <span class="text-[4rem]">
         <span class="font-bold"> This is </span>
-        <span class="font-bold brand-gradient"> the Loop Project. </span>
+        <span class="font-bold brand-gradient"> CustardMC. </span>
     </span>
 
     <div class="text-2xl">
 
-        We are an organization dedicated to making Minecraft modding more accessible.
+        We are an organization making <i>silly</i> mods from all flavours.
 
     </div>
 
     <div class="text-2xl">
 
         Feel free to contribute on
-        our <a class="underline" href="https://github.com/theLoopProject">Github</a> repositories.
+        our <a class="underline" href="https://github.com/custardmc">Github</a> repositories.
 
     </div>
 
@@ -25,22 +25,22 @@
         <NuxtLink to="https://blryface.xyz/"> <user> Blurryface <LucideScanFace /> </user> </NuxtLink>
 
         <NuxtLink to="https://worldwidepixel.ca/"> <user> WorldWidePixel <LucideGlobe /> </user> </NuxtLink>
-
-        <NuxtLink to="https://ampflower.gay/"> <user> Ampflower <LucideFlower2 /> </user> </NuxtLink>
-
+        
+        <NuxtLink to="https://github.com/sakecode/"> <user> Sake <LucideRadar /> </user> </NuxtLink>
+        
         <NuxtLink to="https://intergrav.xyz/"> <user> Devin <LucideSnail /> </user> </NuxtLink>
 
-        <NuxtLink to="https://github.com/gaming32/"> <user> Gaming32 <LucideGamepad2 /> </user> </NuxtLink>
+        <NuxtLink to="https://www.youtube.com/channel/UC5njjwz4TCDSNArU2lbhgRg/"> <user> Radiance <LucideSun /> </user> </NuxtLink>
 
-        <NuxtLink to="https://theclashfruit.me/"> <user> TheClashFruit <LucideLeaf /> </user> </NuxtLink>
-
-        <NuxtLink to="https://github.com/sakecode/"> <user> Fox <LucideRadar /> </user> </NuxtLink>
-
-        <NuxtLink to="https://wagyourtail.xyz/"> <user> Wagyourtail <LucideLock /> </user> </NuxtLink>
+        <NuxtLink to="https://github.com/exhq/"> <user> exhq <LucideAudioWaveform /> </user> </NuxtLink>
 
         <NuxtLink to="https://rowan.pages.dev/"> <user> Rowan <LucideTreeDeciduous /> </user> </NuxtLink>
 
-        <NuxtLink to="https://github.com/moehreag/"> <user> moehreag <LucideBird /> </user> </NuxtLink>
+        <NuxtLink to="https://callmeecho.dev/"> <user> CallMeEcho <LucideAudioLines /> </user> </NuxtLink>
+
+        <NuxtLink to="https://https://catsta.red/"> <user> TheKodeToad <LucideCode2 /> </user> </NuxtLink>
+
+        <NuxtLink to="https://github.com/yetAnotherEgirl/"> <user> Emily <LucidePersonStanding /> </user> </NuxtLink>
 
     </div>
 
@@ -48,8 +48,8 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: 'Home - the Loop Project',
-  description: "We are an organization dedicated to making Minecraft modding more accessible.",
+  title: 'Home - CustardMC',
+  description: "We are an organization making silly mods from all flavours.",
   ogImage: "~/assets/img/icon512.png",
 })
 </script>

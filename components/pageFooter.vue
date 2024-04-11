@@ -1,5 +1,5 @@
 <template>
 
-    <span class="font-light text-center text-xs text-center"> NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG. © Loop </span>
+    <span class="font-light text-center text-xs text-center"> NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG. © CustardMC </span>
 
 </template>

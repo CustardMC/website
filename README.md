@@ -1,4 +1,4 @@
 # website
-The website for Loop.
+The website for Custard.
 
 *Now in Nuxt!*

@@ -21,11 +21,11 @@
 
 :root {
   font-family: Inter, Helvetica, sans-serif;
-  --brand-colour: #ffe6ef;
+  --brand-colour: #e6ffff;
 }
 
 .brand-gradient {
-    background: linear-gradient(90deg, rgba(255,0,80,1) 0%, rgba(255,6,189,1) 100%);
+    background: linear-gradient(90deg, rgb(0, 255, 106) 0%, rgb(6, 176, 255) 100%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
